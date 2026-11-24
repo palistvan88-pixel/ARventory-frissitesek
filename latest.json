@@ -1,0 +1,19 @@
+{
+  "version": "0.7.1",
+  "notes": "0.7.1 – hibajavító kiadás.",
+  "pub_date": "2026-11-24T16:30:50.093Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSc0lMd3c2NmpySGg3dlIwS21oNE1wRURCWnNkL0xBR25RTC8wN29qUmxnb091RzQ5bDVVTFUyYUpVcVluQUU5QktCVFF6RDRuQWc5eFhmelBGOXJJaWl2eTBqb0tWNXdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NTM3ODQ4CWZpbGU6QVJ2ZW50b3J5LU1hYy0wLjcuMS5hcHAudGFyLmd6Ck9yMHZUSU1ySlZpYTVVR1FheHI5bDZQOVNOa1pVSHN5WEh4UXlXYTZ2MmZPUjJEMmpBcG1LWXF6SW5GUFZlZHZwOTV4c2o5SXB2aGpJVDNJZlh2V0NRPT0K",
+      "url": "https://raw.githubusercontent.com/palistvan88-pixel/ARventory-frissitesek/main/asztali/ARventory-Mac-0.7.1.app.tar.gz"
+    },
+    "darwin-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSc0lMd3c2NmpySGg3dlIwS21oNE1wRURCWnNkL0xBR25RTC8wN29qUmxnb091RzQ5bDVVTFUyYUpVcVluQUU5QktCVFF6RDRuQWc5eFhmelBGOXJJaWl2eTBqb0tWNXdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NTM3ODQ4CWZpbGU6QVJ2ZW50b3J5LU1hYy0wLjcuMS5hcHAudGFyLmd6Ck9yMHZUSU1ySlZpYTVVR1FheHI5bDZQOVNOa1pVSHN5WEh4UXlXYTZ2MmZPUjJEMmpBcG1LWXF6SW5GUFZlZHZwOTV4c2o5SXB2aGpJVDNJZlh2V0NRPT0K",
+      "url": "https://raw.githubusercontent.com/palistvan88-pixel/ARventory-frissitesek/main/asztali/ARventory-Mac-0.7.1.app.tar.gz"
+    },
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSc0lMd3c2NmpySGw0UlF6YnJWaUZ2dmNPWXNTMENHcVZ3UnIxcUt5OXB4QUd3WmRhcWJqMWZoSk1KQ0RIbUtFM1J0ckU0enh2S0FEc2VlazhyS040dG0vOHUxUWREZlFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NTM3ODQ4CWZpbGU6QVJ2ZW50b3J5LVdpbmRvd3MtMC43LjEtdGVsZXBpdG8uZXhlCjdxL1F1cWY1M0xsNk5GMVFHZzdWWDEzZnB4YmlYN0ljOTdVNnpZN0Y0c2plVWtSQXljNFJlUGdCREpWM3VKdjdEWkNxRjd4ZmJjSHU2UFFhUEFIUkN3PT0K",
+      "url": "https://raw.githubusercontent.com/palistvan88-pixel/ARventory-frissitesek/main/asztali/ARventory-Windows-0.7.1-telepito.exe"
+    }
+  }
+}
