@@ -1,15 +1,19 @@
 {
-  "version": "0.10.0",
-  "notes": "0.10.0: egyszerűbb program (nincs Google-összekötés, nincs MI), Pénzügy → Nyugták, belépő diavetítés, 3D-árazás: Géppark Bambu-képekkel, több fájlos nyomtatott termék, cikkszám-minta, Mentés és címke.",
-  "pub_date": "2026-11-28T07:41:14.265Z",
+  "version": "0.11.0",
+  "notes": "0.11.0: Új cikk menü (termék és alapanyag egy helyen, táblázatos import képlinkkel), csempés menük, darabjegyzék több fájlból, egyéb felhasznált anyagok, vállalkozás eszközei az árban, egyszerűbb Árazás, Beszerzés gyors sorfelvitel, Frissítés gomb a menü alján.",
+  "pub_date": "2026-11-28T09:58:35.117Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSc0lMd3c2NmpySHFzTVd6K1N6YkVZamd2aW5GZ1Z3cmhGalZoOWhhQlhEMnFTVTlKZlZrTm5vNy8vMDU5RTRDWEVKMDk0SlJkaDVHQXBRbkhISEdiVXN5ZWNwRmI5T1FnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1ODUxNjczCWZpbGU6QVJ2ZW50b3J5LU1hYy0wLjEwLjAuYXBwLnRhci5negpzcDdmL21aOUhqaWtSeUpDWndnUGVUMEpwK2M2bHhoaisrUS9SMjg4c1gzV2tQMnRuQmNIaWVvb0VsQUNxelc5Zkp6dkNDTXBhWi9OdGpYRmZ0aXpEZz09Cg==",
-      "url": "https://raw.githubusercontent.com/palistvan88-pixel/ARventory-frissitesek/main/asztali/ARventory-Mac-0.10.0.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSc0lMd3c2NmpySG1NSUFTTWVISmhkWXF5MW5STlhXSHJqSWVLY3FQOU56R1JxTDJRZEpRMWhXbHFHK050UUlMTkl1aGtHTDVHazAra0xpR2tqd3h5eEFlaXY1N3pMQmdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1ODU5OTE0CWZpbGU6QVJ2ZW50b3J5LU1hYy0wLjExLjAuYXBwLnRhci5negplR1djalZrdFF0UHFQWHJaY3VvOTh1NFJ1TTZvUTdJOW1HQjNyZkZ2dVJNYW1XS2U0aU5PMHBoMGNtVFlmc1hGLy9YZ1NQcHNtNDRRSEFFYlpNcEpCQT09Cg==",
+      "url": "https://raw.githubusercontent.com/palistvan88-pixel/ARventory-frissitesek/main/asztali/ARventory-Mac-0.11.0.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSc0lMd3c2NmpySHFzTVd6K1N6YkVZamd2aW5GZ1Z3cmhGalZoOWhhQlhEMnFTVTlKZlZrTm5vNy8vMDU5RTRDWEVKMDk0SlJkaDVHQXBRbkhISEdiVXN5ZWNwRmI5T1FnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1ODUxNjczCWZpbGU6QVJ2ZW50b3J5LU1hYy0wLjEwLjAuYXBwLnRhci5negpzcDdmL21aOUhqaWtSeUpDWndnUGVUMEpwK2M2bHhoaisrUS9SMjg4c1gzV2tQMnRuQmNIaWVvb0VsQUNxelc5Zkp6dkNDTXBhWi9OdGpYRmZ0aXpEZz09Cg==",
-      "url": "https://raw.githubusercontent.com/palistvan88-pixel/ARventory-frissitesek/main/asztali/ARventory-Mac-0.10.0.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSc0lMd3c2NmpySG1NSUFTTWVISmhkWXF5MW5STlhXSHJqSWVLY3FQOU56R1JxTDJRZEpRMWhXbHFHK050UUlMTkl1aGtHTDVHazAra0xpR2tqd3h5eEFlaXY1N3pMQmdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1ODU5OTE0CWZpbGU6QVJ2ZW50b3J5LU1hYy0wLjExLjAuYXBwLnRhci5negplR1djalZrdFF0UHFQWHJaY3VvOTh1NFJ1TTZvUTdJOW1HQjNyZkZ2dVJNYW1XS2U0aU5PMHBoMGNtVFlmc1hGLy9YZ1NQcHNtNDRRSEFFYlpNcEpCQT09Cg==",
+      "url": "https://raw.githubusercontent.com/palistvan88-pixel/ARventory-frissitesek/main/asztali/ARventory-Mac-0.11.0.app.tar.gz"
+    },
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSc0lMd3c2NmpySG9KaVNzZ2h0SHpwcGVTcnVoemU2MStsZys5akF5VnBDdkRtT0QvOUN6SXp3Z3hhek5aTExZcWRlQ2JETkNHQjAxeFVsZHFCVkc4Y0pVbWliKzRCeFFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1ODU5OTE0CWZpbGU6QVJ2ZW50b3J5LVdpbmRvd3MtMC4xMS4wLXRlbGVwaXRvLmV4ZQoyNmNwR2JlYmR4ZHg1cmkxa3d3NW9DSlJNbFZjaDhRWUJDQXBoeVNxcCtVd3VDbkM1aUxyRUQ0Vm1GUUVDOEpPb2FYU0ozNzM1T3VqTng2cXNEdXdEUT09Cg==",
+      "url": "https://raw.githubusercontent.com/palistvan88-pixel/ARventory-frissitesek/main/asztali/ARventory-Windows-0.11.0-telepito.exe"
     }
   }
 }
