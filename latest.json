@@ -1,19 +1,19 @@
 {
-  "version": "0.11.0",
-  "notes": "0.11.0: Új cikk menü (termék és alapanyag egy helyen, táblázatos import képlinkkel), csempés menük, darabjegyzék több fájlból, egyéb felhasznált anyagok, vállalkozás eszközei az árban, egyszerűbb Árazás, Beszerzés gyors sorfelvitel, Frissítés gomb a menü alján.",
-  "pub_date": "2026-11-28T09:58:35.117Z",
+  "version": "0.12.0",
+  "notes": "Nyugtagyűjtők, tárhelyhasználat választó, 0 készlet szűrő, profilkép, szerkeszthető import hibás sorok kihagyásával, verzió és frissítés a belépésnél, rendezettebb beállítások.",
+  "pub_date": "2026-11-28T15:19:51.364Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSc0lMd3c2NmpySG1NSUFTTWVISmhkWXF5MW5STlhXSHJqSWVLY3FQOU56R1JxTDJRZEpRMWhXbHFHK050UUlMTkl1aGtHTDVHazAra0xpR2tqd3h5eEFlaXY1N3pMQmdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1ODU5OTE0CWZpbGU6QVJ2ZW50b3J5LU1hYy0wLjExLjAuYXBwLnRhci5negplR1djalZrdFF0UHFQWHJaY3VvOTh1NFJ1TTZvUTdJOW1HQjNyZkZ2dVJNYW1XS2U0aU5PMHBoMGNtVFlmc1hGLy9YZ1NQcHNtNDRRSEFFYlpNcEpCQT09Cg==",
-      "url": "https://raw.githubusercontent.com/palistvan88-pixel/ARventory-frissitesek/main/asztali/ARventory-Mac-0.11.0.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSc0lMd3c2NmpySGpZV1czNTJ0YTlqLzVCaWZoaWpkUCsydTJVVHFGdWx2WkdWRkRHd2lnZGk4S1UxSEtpaDA2L2JMU0lKNWVSSkFUNWRhNGErVHBnTzlPemJzc1NCTXdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1ODc5MTkwCWZpbGU6QVJ2ZW50b3J5LU1hYy0wLjEyLjAuYXBwLnRhci5negpsNkNSeHZKZS9OZjRHVDB6aUR4ZHhXVmdhK3JDU2M4dTVpajdOTGRGNnJ3cXZBdUk5cVEzYjNudHY3YkRrNnp0TU9mRXBSbFh0bVRhdm9NWkNiR1VDUT09Cg==",
+      "url": "https://raw.githubusercontent.com/palistvan88-pixel/ARventory-frissitesek/main/asztali/ARventory-Mac-0.12.0.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSc0lMd3c2NmpySG1NSUFTTWVISmhkWXF5MW5STlhXSHJqSWVLY3FQOU56R1JxTDJRZEpRMWhXbHFHK050UUlMTkl1aGtHTDVHazAra0xpR2tqd3h5eEFlaXY1N3pMQmdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1ODU5OTE0CWZpbGU6QVJ2ZW50b3J5LU1hYy0wLjExLjAuYXBwLnRhci5negplR1djalZrdFF0UHFQWHJaY3VvOTh1NFJ1TTZvUTdJOW1HQjNyZkZ2dVJNYW1XS2U0aU5PMHBoMGNtVFlmc1hGLy9YZ1NQcHNtNDRRSEFFYlpNcEpCQT09Cg==",
-      "url": "https://raw.githubusercontent.com/palistvan88-pixel/ARventory-frissitesek/main/asztali/ARventory-Mac-0.11.0.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSc0lMd3c2NmpySGpZV1czNTJ0YTlqLzVCaWZoaWpkUCsydTJVVHFGdWx2WkdWRkRHd2lnZGk4S1UxSEtpaDA2L2JMU0lKNWVSSkFUNWRhNGErVHBnTzlPemJzc1NCTXdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1ODc5MTkwCWZpbGU6QVJ2ZW50b3J5LU1hYy0wLjEyLjAuYXBwLnRhci5negpsNkNSeHZKZS9OZjRHVDB6aUR4ZHhXVmdhK3JDU2M4dTVpajdOTGRGNnJ3cXZBdUk5cVEzYjNudHY3YkRrNnp0TU9mRXBSbFh0bVRhdm9NWkNiR1VDUT09Cg==",
+      "url": "https://raw.githubusercontent.com/palistvan88-pixel/ARventory-frissitesek/main/asztali/ARventory-Mac-0.12.0.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSc0lMd3c2NmpySG9KaVNzZ2h0SHpwcGVTcnVoemU2MStsZys5akF5VnBDdkRtT0QvOUN6SXp3Z3hhek5aTExZcWRlQ2JETkNHQjAxeFVsZHFCVkc4Y0pVbWliKzRCeFFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1ODU5OTE0CWZpbGU6QVJ2ZW50b3J5LVdpbmRvd3MtMC4xMS4wLXRlbGVwaXRvLmV4ZQoyNmNwR2JlYmR4ZHg1cmkxa3d3NW9DSlJNbFZjaDhRWUJDQXBoeVNxcCtVd3VDbkM1aUxyRUQ0Vm1GUUVDOEpPb2FYU0ozNzM1T3VqTng2cXNEdXdEUT09Cg==",
-      "url": "https://raw.githubusercontent.com/palistvan88-pixel/ARventory-frissitesek/main/asztali/ARventory-Windows-0.11.0-telepito.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSc0lMd3c2NmpySGx3UldvM0J0K2NzYVdRQy9zYk54SVA1TzVncVZLckE0SklseUZ6Smx1STBIcWtXMEdGeVIzM3o4UTVlV21qay9QZWZDdDFGc2lPVFNQTVFQS2s2dndFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1ODc5MTkwCWZpbGU6QVJ2ZW50b3J5LVdpbmRvd3MtMC4xMi4wLXRlbGVwaXRvLmV4ZQp5cXh3QlY4ZWw3cVgvSzlZWGlXeDZNVE9kTVZGSWQ3ZG9HQ3JacTIzb0NEUU1ZU3ZUTHV1TWZ4QkJ5c0ZKKzFEM0ZZcjhRNWhaWnNvb08xQTB6QTNBZz09Cg==",
+      "url": "https://raw.githubusercontent.com/palistvan88-pixel/ARventory-frissitesek/main/asztali/ARventory-Windows-0.12.0-telepito.exe"
     }
   }
 }
